@@ -1,4 +1,4 @@
-# pythonScripts
+# Python Scripts
 Some python scripts for fun
 
 1) createTextFile
